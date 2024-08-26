@@ -36,6 +36,7 @@ class LinkedList:
             print(root.val)
             root = root.next
         
+        
 if __name__ == "__main__":
 
     linked_list = LinkedList()
